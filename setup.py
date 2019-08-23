@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'FiShPy',         
   packages = ['FiShPy'],   
-  version = '1.0',      
+  version = '0.1',      
   license='MIT',        
   description = 'Fisher-Shannon method (uncomplete work)', 
   author = 'Fabian Guignard',               
