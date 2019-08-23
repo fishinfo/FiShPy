@@ -8,7 +8,7 @@ setup(
   author = 'Fabian Guignard',               
   author_email = 'fabian.guignard@bluemail.ch',    
   url = 'https://github.com/fishinfo/FiShPy', 
-  download_url = 'https://github.com/fishinfo/FiShPy/archive/v_10.tar.gz',   
+  download_url = 'https://github.com/fishinfo/FiShPy/archive/v_0.1.tar.gz',   
   keywords = [
       'Fisher Shannon plane', 
       'Fisher information measure', 
