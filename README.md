@@ -1,7 +1,7 @@
 FiShPy
 =====================================
 
-Python package for Fisher-Shannon method. Proposes non-parametric estimates of the Fisher Information Measure and the Shannon Entropy Power. The package contains also some bandwidth selectors for kernel density estimate. An R version of this work is available on GitHub and CRAN (FiSh).
+Python package for Fisher-Shannon method. Proposes non-parametric estimates of the Fisher Information Measure and the Shannon Entropy Power. The package contains also some bandwidth selectors for kernel density estimate. An R version of this work is available on [GitHub](https://github.com/fishinfo/FiSh) and [CRAN](https://cran.r-project.org/web/packages/FiSh/index.html).
 
 When using this Python code, please cite the following paper where it was developed :
 
